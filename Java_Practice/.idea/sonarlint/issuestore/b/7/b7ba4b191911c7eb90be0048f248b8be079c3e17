@@ -1,0 +1,14 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(·¯øôùÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(·Ã˜žýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ž‡Ð£úÿÿÿÿ
+P
+java:S1611"5Remove the parentheses around the "eachNum" parameter(ƒ”þÿÿÿÿÿ
+L
+java:S1611"1Remove the parentheses around the "num" parameter(Ä”Šùÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ä”Šùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä”Šùÿÿÿÿ
+B
+java:S1144",Remove this unused private "isPrime" method.(€Ãˆ®

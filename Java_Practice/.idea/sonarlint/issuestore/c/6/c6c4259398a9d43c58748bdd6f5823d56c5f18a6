@@ -1,0 +1,15 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "namearray".(èÛù“
+V	java:S125"<This block of commented-out lines of code should be removed.( Ï’ùÿÿÿÿ
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(’»ä¿ûÿÿÿÿ
+G
+java:S1611"2Remove the parentheses around the "name" parameter(ıùîa
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ıùîa
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ıùîa
+D
+java:S1481".Remove this unused "namearray" local variable.(èÛù“
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”

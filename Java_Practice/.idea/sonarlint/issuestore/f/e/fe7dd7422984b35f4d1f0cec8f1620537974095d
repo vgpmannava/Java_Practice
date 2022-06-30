@@ -1,0 +1,7 @@
+
+X	java:S125	"<This block of commented-out lines of code should be removed.(û¬ø¨8ğ…ö±ı/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8õ…ö±ı/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8õ…ö±ı/

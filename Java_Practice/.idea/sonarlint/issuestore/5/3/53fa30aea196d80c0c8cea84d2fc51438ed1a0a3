@@ -1,0 +1,16 @@
+
+_
+java:S1854-"DRemove this useless assignment to local variable "newConcurrentMap".(ˆ´ÛÑþÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ëú¿Èûÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ê¢±å
+P
+java:S1481-"5Remove this unused "newConcurrentMap" local variable.(ˆ´ÛÑþÿÿÿÿ
+I
+java:S1611:"3Remove the parentheses around the "entry" parameter(©–º²
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(©–º²
+=
+java:S1604"(Make this anonymous inner class a lambda(£·®
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïÞß
+=
+java:S16043"(Make this anonymous inner class a lambda(Ø¸Õ.

@@ -1,0 +1,12 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ê‰ÖÚ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(şÛÁ¾
+X	java:S125"<This block of commented-out lines of code should be removed.(©ÿÓ8½ÿ‰ñ”0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³×¦‡
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(‘ÑÀ¢8è´’ñ”0
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(³×¦‡
+Y
+java:S4973 "<Strings and Boxed types should be compared using "equals()".(‘ÑÀ¢8ë´’ñ”0
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(•¶™Ø

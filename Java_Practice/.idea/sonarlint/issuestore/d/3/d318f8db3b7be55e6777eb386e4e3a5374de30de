@@ -1,0 +1,19 @@
+
+6
+java:S2129" Remove this "String" constructor(šàŒá
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¼ –
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ê¿‡Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô÷ç…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıùóøşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñÑÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ïı¬î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÓøûÿÿÿÿ
+=
+java:S2129" Remove this "String" constructor(Ò²Ê¯8ù¡İ†ş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ“âûÿÿÿÿ8ë¢İ†ş/
+^
+java:S1192	"HDefine a constant instead of duplicating this literal "welcome" 3 times.(«Êº†
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ıùóøşÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ñÑÖ

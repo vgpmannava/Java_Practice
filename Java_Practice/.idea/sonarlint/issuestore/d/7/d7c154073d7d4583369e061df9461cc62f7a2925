@@ -1,0 +1,54 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(àòûşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÃŞû˜ùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Úš²²
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Úˆõü
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(“›×øÿÿÿÿ
+_
+java:S16123"DReplace this lambda with method reference 'Employee::getDepartment'.(ã¯ëïøÿÿÿÿ
+M
+java:S16113"2Remove the parentheses around the "dept" parameter(ã¯ëïøÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ã¯ëïøÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Èƒ„š
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(×îÿÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+H
+java:S1135K"2Complete the task associated to this TODO comment.(…ïœ†
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(½±Ííıÿÿÿÿ
+m
+java:S6204V"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(í¦Ğæıÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(í¦Ğæıÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Ú”¥Òûÿÿÿÿ
+L
+java:S1611i"6Remove the parentheses around the "employee" parameter(—İ©ö
+V
+java:S1612i"@Replace this lambda with method reference 'System.out::println'.(—İ©ö
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(—İ©ö
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(¶ÂÃóøÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ïÂÿíıÿÿÿÿ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+R	java:S125€"<This block of commented-out lines of code should be removed.(Ş¼ıâ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(êºöÇ
+H
+java:S1611Œ"1Remove the parentheses around the "emp" parameter(šÎÒ§
+W
+java:S1612Œ"@Replace this lambda with method reference 'System.out::println'.(šÎÒ§
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(šÎÒ§
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(ü°êûÿÿÿÿ
+H
+java:S1611•"1Remove the parentheses around the "emp" parameter(šÎÒ§
+W
+java:S1612•"@Replace this lambda with method reference 'System.out::println'.(šÎÒ§
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(šÎÒ§
+N	java:S106œ"9Replace this use of System.out or System.err by a logger.(†éë 
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(§ã–É
+U
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:8šËÖá0
+k
+java:S3655L"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¼òÍ¡üÿÿÿÿ
+f
+java:S3655p"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ûµ›¶
+f
+java:S3655|"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ûµ›¶

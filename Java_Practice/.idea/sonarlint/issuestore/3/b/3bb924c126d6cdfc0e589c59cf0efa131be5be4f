@@ -1,0 +1,13 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Şå¹¤úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Şå¹¤úÿÿÿÿ
+I
+java:S1611"3Remove the parentheses around the "entry" parameter(øÖÉè
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(øÖÉè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øÖÉè
+R
+java:S1751."5Remove this "break" statement or make it conditional.(›ûä·8ğğÓ…0
+ˆ
+java:S1319 "mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ôøüãşÿÿÿÿ
